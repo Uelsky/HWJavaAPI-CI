@@ -1,4 +1,5 @@
-# Домашнее задание к занятию «1.2. Тестирование API, CI»
+# Домашнее задание к занятию «1.2. Тестирование API, CI» [![Build status](https://ci.appveyor.com/api/projects/status/5guthmdo19nqyfj3?svg=true)](https://ci.appveyor.com/project/Uelsky/hwjavaapi-ci)
+
 
 ## Студент: Максимов Сергей Алексеевич
 
